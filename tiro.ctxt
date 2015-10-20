@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=d\ numTorre
+comment0.target=tiro(int,\ int)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ mata()
+comment4.params=
+comment4.target=void\ limite()
+numComments=5

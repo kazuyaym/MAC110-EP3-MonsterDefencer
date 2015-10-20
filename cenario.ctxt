@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=cenario()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ criaLetreiros()
+comment3.params=
+comment3.target=void\ menu()
+comment4.params=
+comment4.target=void\ iniciarFase1()
+comment5.params=
+comment5.target=void\ mudaDeFase()
+comment6.params=
+comment6.target=void\ ajudaMudarDeFase()
+comment7.params=
+comment7.target=void\ colocaInimigos()
+comment8.params=
+comment8.target=void\ ficaDificil()
+comment9.params=
+comment9.target=void\ GAMEOVER()
+numComments=10

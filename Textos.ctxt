@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=prefix\ i
+comment0.target=Textos(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=i
+comment2.target=void\ substituiValor(int)
+comment3.params=i
+comment3.target=void\ adiciona(int)
+comment4.params=
+comment4.target=int\ Valor()
+comment5.params=
+comment5.target=void\ atualizaImagem()
+numComments=6

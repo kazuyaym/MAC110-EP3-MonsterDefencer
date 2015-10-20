@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=v
+comment0.target=fantasma(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=boolean\ canMove()
+comment4.params=
+comment4.target=void\ imagem()
+numComments=5

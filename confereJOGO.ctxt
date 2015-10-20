@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=precoTorre
+comment0.target=boolean\ PodeColocar(int)
+comment1.params=
+comment1.target=boolean\ verificaCor()
+comment2.params=x\ y
+comment2.target=void\ reset(int,\ int)
+comment3.params=direcao
+comment3.target=int\ verificaKey(int)
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=v
+comment0.target=robo(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ andaEfeito()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=boolean\ canMove()
+comment5.params=
+comment5.target=void\ imagem()
+numComments=6
